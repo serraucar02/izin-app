@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1777056739114,
+    "adSoyad": "Serra",
+    "izinTuru": "Yıllık",
+    "baslangic": "2026-04-25",
+    "bitis": "2026-04-27",
+    "aciklama": "Tatil",
+    "durum": "Onaylandı"
+  },
+  {
+    "id": 1777065410746,
+    "adSoyad": "elif ",
+    "izinTuru": "Mazeret",
+    "baslangic": "2026-02-01",
+    "bitis": "2026-02-04",
+    "aciklama": "",
+    "durum": "Reddedildi"
+  },
+  {
+    "id": 1777140555990,
+    "adSoyad": "serra",
+    "izinTuru": "Sağlık",
+    "baslangic": "2026-02-01",
+    "bitis": "2026-02-03",
+    "aciklama": "aaaa",
+    "durum": "Onaylandı"
+  },
+  {
+    "id": 1777141216688,
+    "adSoyad": "serra uçar",
+    "izinTuru": "Sağlık",
+    "baslangic": "2026-03-05",
+    "bitis": "2026-03-07",
+    "aciklama": "aaaa",
+    "durum": "Reddedildi"
+  },
+  {
+    "id": 1777144167736,
+    "adSoyad": "beyza ak",
+    "izinTuru": "Mazeret",
+    "baslangic": "2026-02-15",
+    "bitis": "2026-02-17",
+    "aciklama": "hdhdhdh",
+    "durum": "Reddedildi"
+  }
+]
